@@ -182,11 +182,4 @@ https://api.currencyapi.com/v3/latest?apikey=your_api_key&currencies=USD,EUR,INR
 
 ---
 
-## Screenshots
-
-![Currency Converter App](https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
-Example of the currency converter UI with a background image.
-___
-
 Feel free to reach out for suggestions or contributions! 😊 💻
